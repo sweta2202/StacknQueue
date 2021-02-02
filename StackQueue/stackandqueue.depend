@@ -1,0 +1,17 @@
+     C:\Users\User\Desktop\stacks_and_queues\main.c       
+        <stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<string.h>
+	"stacklink.h"
+
+             C:\Users\User\Desktop\stacks_and_queues\stack.c
+        <stdint.h>
+	<assert.h>
+	"stacklink.h"
+	<string.h>
+	<ctype.h>
+             C:\Users\User\Desktop\stacks_and_queues\stacklink.h
+
+        <stdint.h>
